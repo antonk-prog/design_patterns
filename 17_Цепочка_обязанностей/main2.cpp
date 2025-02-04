@@ -83,5 +83,7 @@ int main() {
     delete authzHandler;
     delete loggingHandler;
 
+    
+
     return 0;
 }
