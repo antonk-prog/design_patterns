@@ -90,7 +90,7 @@ int main() {
 
     composition.addGlyph(new CircleGlyph());
     composition.addGlyph(new SquareGlyph());
-
+.
     composition.Draw();
 
     ArrayCompositor arrayCompositor;
